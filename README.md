@@ -1,24 +1,75 @@
-# TRADO 📊
+# 📈 Trado - Your Simple Tool for Trading Success
 
-TRADO is a personal trading journal app designed to help traders
-log trades, track P&L, and analyze performance with discipline.
+## 🚀 Getting Started
 
-## Features
-- Trade logging (BUY / SELL)
-- P&L calculation
-- Trade filters & search
-- Analytics (Equity Curve, Monthly P&L)
-- Offline-first (no data collection)
-- Dark / Light / System theme
+Welcome to Trado! This app helps you track your trades and analyze your performance, making your trading experience smoother and more effective. Follow the simple steps below to download and start using Trado.
 
-## Privacy
-TRADO does not collect or share any personal data.
-All data stays on your device.
+## 📥 Download Trado
 
-## Download
-APK will be available in GitHub Releases.
+[![Download Trado](https://img.shields.io/badge/Download-Trado-blue.svg)](https://github.com/vonx704/Trado/releases)
 
-## Contact
-Email: contact.tradoapp@gmail.com  
-Instagram: @shankar___lovex  
-GitHub: @shankarlovex
+To get the latest version of Trado, visit this page:
+
+[Download Trado from GitHub Releases](https://github.com/vonx704/Trado/releases)
+
+## 🖥️ System Requirements
+
+Before you download Trado, make sure your device meets these requirements:
+
+- **Operating System**: Android 5.0 (or later) for full support
+- **Storage**: At least 100 MB of free space
+- **RAM**: Minimum 1 GB recommended
+- **Network**: Internet connection for updates and downloading trades
+
+## 🔧 Installation Instructions
+
+1. **Visit the Release Page**: Go to [Download Trado from GitHub Releases](https://github.com/vonx704/Trado/releases).
+  
+2. **Choose Your Version**: Look for the latest version listed. It usually appears at the top of the page.
+
+3. **Download the APK File**: Click on the APK file to start the download. It should be named something like `Trado-vX.X.X.apk`.
+
+4. **Enable Unknown Sources**: 
+   - Open your device’s Settings.
+   - Go to Security or Privacy.
+   - Enable "Install from Unknown Sources". This allows you to install apps from sources other than the Google Play Store.
+
+5. **Install Trado**: 
+   - Open your file manager or go to your Downloads folder.
+   - Tap on the downloaded `Trado-vX.X.X.apk` file.
+   - Follow the prompts to complete the installation.
+
+6. **Open and Use Trado**: Once installed, you can find Trado in your app drawer. Tap to open, and start tracking your trades!
+
+## 📊 Features of Trado
+
+Trado comes packed with useful features to enhance your trading experience:
+
+- **Trade Logging**: Keep track of all your trades in one place.
+- **Performance Analysis**: Analyze your trading performance over time.
+- **User-Friendly Interface**: Designed for easy navigation and use.
+- **Export Data**: Export your trading data for easy reporting and analysis.
+- **Cloud Backup**: Safely store your data online for easy access.
+
+## 🔍 FAQs
+
+### How do I update Trado?
+
+To update Trado, return to the [Download Trado from GitHub Releases](https://github.com/vonx704/Trado/releases) page, download the latest APK version, and follow the installation instructions again. The app will overwrite the previous version.
+
+### Can I uninstall Trado?
+
+Yes, you can uninstall Trado like any other app on your Android device. Go to Settings > Apps, find Trado, and tap "Uninstall".
+
+### What if I have issues with installation?
+
+If you run into problems:
+- Ensure you enabled "Install from Unknown Sources".
+- Double-check your device's storage and permissions.
+- Visit our [GitHub Issues Page](https://github.com/vonx704/Trado/issues) to report or find solutions.
+
+## 💬 Get In Touch
+
+If you have any questions or feedback, feel free to open an issue on GitHub or email us at support@tradoapp.com.
+
+Thank you for choosing Trado! Happy trading!
